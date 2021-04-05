@@ -1,0 +1,3 @@
+azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=abdzallah;AccountKey=6Z2LBZjx7YJjhpzF8VRer0SREGSSHFPN5kpO10HRoV5xfk+0m2STWc06jTsrOCYQVIt1095VChtL7qJ9jy0Duw==;EndpointSuffix=core.windows.net"
+container_name: "Data"
+source_folder: "/raya"
